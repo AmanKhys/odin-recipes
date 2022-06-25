@@ -1,0 +1,9 @@
+body{
+    background-image: url("images/background.jpg");
+}
+ol,p{
+    background-color:cadetblue ;
+}
+h1{
+    background-color: darkred;
+}
